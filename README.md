@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vortex204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vortex204" height="30" width="40" /></a>
-<a href="[www.linkedin.com/in/jeffrey-espinal](https://linkedin.com/in/jeffrey-espinal)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jeffrey-espinal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jeffrey-espinal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jeffrey-espinal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jeff_204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jeff_204" height="30" width="40" /></a>
 <a href="https://instagram.com/jeff_204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeff_204" height="30" width="40" /></a>
 </p>
