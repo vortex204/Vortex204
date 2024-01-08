@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Everything 🤣**
 
 - 👯 I’m looking to collaborate on **open source projects**
-- 🥅 2023 Goals: **Build robust projects with MERN**
+- 🥅 2024 Goals: **Build robust projects with MERN**
 - 📫 How to reach me **jespinal1193@gmail.com**
 
 - ⚡ Fun fact **Im an avid camper/Hiker**
